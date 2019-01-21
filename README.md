@@ -12,6 +12,7 @@ This is a simple tool for verifying Turkish National ID. Verification process us
 | `birthday`  | `b` | String | true
 
 *Birthday gets year*
+
 Note : ***Use double dash while using argument names in full and use single dash while using aliases.*** 
 
 
