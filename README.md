@@ -18,7 +18,7 @@ Note : ***Use double dash while using argument names in full and use single dash
 
 **To download from github**
 
-    git clone https://github.com/Zeromiki/turkish-national-verification.git
+    git clone https://github.com/Zeromika/turkish-national-verification.git
 
 **To install necessary packages**
 
